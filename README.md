@@ -3,7 +3,7 @@ how to use hax
 #1 go into the hax file and highlight the entire thing with ctrl+A then
  copy with ctrl+C
  
-#2 press the star at the top right of your screen in the url adress bar
+#2 press the star at the top right of your screen in the url address bar
 
 #3 next to the word "folder" click bookmarks bar
 
