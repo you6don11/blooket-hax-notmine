@@ -7,7 +7,7 @@ how to use hax
 
 #3 next to the word "folder" click bookmarks bar
 
-#4 then click choose "another folder..."
+#4 then click choose "choose another folder..."
 
 #5 next to name delete everything and type "blooket hacks"
 
